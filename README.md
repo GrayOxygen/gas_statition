@@ -1,0 +1,6 @@
+# gas_statition
+获取高德地图上加油站信息，以excel保存数据
+> 
+1. python文件夹下collect_gas_station.py用于调用高德地图的搜索接口，获取到主要的一二线城市以及广东其他小城市的加油站信息，并将json数据保存在datas文件夹下
+2. java的单元测试类AppTest用于将json格式数据的txt文件转为excel文件
+3. collect_gas_station.py执行的环境为3.5
