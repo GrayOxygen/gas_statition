@@ -1,0 +1,1172 @@
+[
+  {
+    "adcode": "440305",
+    "address": "南山大道2043号",
+    "adname": "南山区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": "科技园",
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3313673312",
+    "groupbuy_num": "0",
+    "id": "B02F302A5D",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "113.924375,22.529056",
+    "match": "0",
+    "name": "中国石化加油站(南山大道)",
+    "navi_poiid": "F49F018048_222165",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/5628a956a3102670a366c413"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/5628a956a3102670a366c433"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/ea5b088fe10055f290f60652b4f72f37"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": "518052",
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-26079937;0755-26661088",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440307",
+    "address": "吉华路679号",
+    "adname": "龙岗区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": "坂田",
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3314706400",
+    "groupbuy_num": "0",
+    "id": "B02F30AHNS",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.053522,22.634904",
+    "match": "0",
+    "name": "金田加油站(吉华路)",
+    "navi_poiid": "F50F017001_1115;406078",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/aa4c6be3f455b7d009e60c0606acb14e"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-84193688",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中石油碧辟",
+    "typecode": "010108",
+    "website": []
+  },
+  {
+    "adcode": "440306",
+    "address": "松岗镇广深公路松岗段101号",
+    "adname": "宝安区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": "松岗",
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3413160722",
+    "groupbuy_num": "0",
+    "id": "B02F37T4UM",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "113.848269,22.755737",
+    "match": "0",
+    "name": "中国石化加油站(长浩路)",
+    "navi_poiid": "F49F015047_2215",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/d4b9f4b9b45068c62b14e54a7f5987d7"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/4d4908922e8a276333e0872daea5b87b"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": "518105",
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-27097682",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440306",
+    "address": "松白路与北环路交叉口西北100米",
+    "adname": "宝安区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3413073321",
+    "groupbuy_num": "0",
+    "id": "B02F301B38",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "113.918215,22.699695",
+    "match": "0",
+    "name": "中国石化宝宏盛油站",
+    "navi_poiid": "F49F016048_176",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/c323fb308ff563502691f166e30ddfc8"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/9c5feaff5b285eb47c19df0f16736573"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/8cf830171719e8cc0147dd54d404b5e8"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-27658530",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440307",
+    "address": "深汕路(坑梓段)345号",
+    "adname": "龙岗区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3414028920",
+    "groupbuy_num": "0",
+    "id": "B02F3052CB",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.362873,22.740183",
+    "match": "0",
+    "name": "中国石油(科发加油站)",
+    "navi_poiid": "F50F016003_106",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/e2ffb0e394ae7cadea956eb6e5372376"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": [],
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石油",
+    "typecode": "010102",
+    "website": []
+  },
+  {
+    "adcode": "440305",
+    "address": "留仙大道博林天瑞",
+    "adname": "南山区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3313679722",
+    "groupbuy_num": "0",
+    "id": "B02F37VJJZ",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "113.972977,22.583100",
+    "match": "0",
+    "name": "中国石油留仙加油站",
+    "navi_poiid": "F49F017048_2154",
+    "pcode": "440000",
+    "photos": [],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-26988494",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石油",
+    "typecode": "010102",
+    "website": []
+  },
+  {
+    "adcode": "440306",
+    "address": "西乡镇鹤洲路口通达集团旁",
+    "adname": "宝安区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3313764801",
+    "groupbuy_num": "0",
+    "id": "B02F37VHMO",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "113.855200,22.617866",
+    "match": "0",
+    "name": "中国石化振康加油站",
+    "navi_poiid": "F49F017047_41",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/936e4e4306209afda4070cd0b0113c55"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-27478385;0755-27477649",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440303",
+    "address": "沿河南路1189号(江背路口)",
+    "adname": "罗湖区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": "东门",
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3314614010",
+    "groupbuy_num": "0",
+    "id": "B02F3007C4",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.126441,22.536991",
+    "match": "0",
+    "name": "中国石化东方加油站(沿河南路辅路)",
+    "navi_poiid": "F50F018001_335813",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/56b047fca310218d5b4ae1b6"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/5715db637ac63a0cf2e96ca5"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/56b047fca310218d5b4ae1b4"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": "518001",
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-82330060",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440307",
+    "address": "龙平西路30号",
+    "adname": "龙岗区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3414017810",
+    "groupbuy_num": "0",
+    "id": "B02F37VMQL",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.228486,22.729650",
+    "match": "0",
+    "name": "中南人防加油站",
+    "navi_poiid": "F50F016002_3842",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/66d1a185236585f4fc4631c2592a7ebe"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": "518172",
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-28936338",
+    "timestamp": [],
+    "type": "汽车服务;加油站;加油站",
+    "typecode": "010100",
+    "website": []
+  },
+  {
+    "adcode": "440307",
+    "address": "布龙路620号",
+    "adname": "龙岗区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": "坂田",
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3314705411",
+    "groupbuy_num": "0",
+    "id": "B02F37VHC1",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.057066,22.628308",
+    "match": "0",
+    "name": "大发埔油站",
+    "navi_poiid": "F50F017001_1116",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/1b2cd1cefc61718a9c89f8750223b0b1"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/17398642ba23c40bf05064caae6d4335"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/67ea919a4f52a563c59f3856c083fb0a"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": [],
+    "timestamp": [],
+    "type": "汽车服务;加油站;加油站",
+    "typecode": "010100",
+    "website": []
+  },
+  {
+    "adcode": "440306",
+    "address": "广深路西乡段116号",
+    "adname": "宝安区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3313762900",
+    "groupbuy_num": "0",
+    "id": "B02F37T4V6",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "113.865056,22.601767",
+    "match": "0",
+    "name": "中国石化加油站(广深公路辅路)",
+    "navi_poiid": "F49F017047_18459",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/e66e3fc8b5a64ee54a01dda635b7d349"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/fec5784520fe3e735663049c2b05089c"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/659d361e15e394b41b913bb401ecd8e3"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-27494699",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440307",
+    "address": "龙岗大道横岗段4079",
+    "adname": "龙岗区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": "横岗",
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3314717600",
+    "groupbuy_num": "0",
+    "id": "B02F37VHDR",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.201452,22.643250",
+    "match": "0",
+    "name": "农机油站",
+    "navi_poiid": "F50F017002_675",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/c2d3dcf8295cd4ca1ba19e64a3dd8e4c"
+      },
+      {
+        "title": [],
+        "url": "http://aos-cdn-image.amap.com/sns/ugccomment/b1f3043a-3105-4e72-866a-c84952778102.jpg"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": [],
+    "timestamp": [],
+    "type": "汽车服务;加油站;加油站",
+    "typecode": "010100",
+    "website": []
+  },
+  {
+    "adcode": "440306",
+    "address": "宝安大道5007号(华胜实验学校对面)",
+    "adname": "宝安区",
+    "alias": [],
+    "biz_ext": {
+      "cost": [],
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3313763710",
+    "groupbuy_num": "0",
+    "id": "B02F37U5UH",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "113.840194,22.613448",
+    "match": "0",
+    "name": "中国石油加油站(宝安大道)",
+    "navi_poiid": "F49F017047_1366",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/feb4b835b1ed30be5e36480615ae1518"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-29749960",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石油",
+    "typecode": "010102",
+    "website": []
+  },
+  {
+    "adcode": "440304",
+    "address": "深南中路2099号赤尾大厦附近",
+    "adname": "福田区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": "华强北",
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3314604622",
+    "groupbuy_num": "0",
+    "id": "B02F300AC1",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.087039,22.540141",
+    "match": "0",
+    "name": "中国石化上步加油站",
+    "navi_poiid": "F50F018001_161199",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/bfed02b2c30f1fbb46affdd7c0284605"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/51434fb0d21f25c78f2b0bd59c0524f5"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/55810c0ca3109f1e8a1c612d"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-83636274;0755-83636454",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440303",
+    "address": "罗沙路3138号(罗沙路辅路)",
+    "adname": "罗湖区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3314617301",
+    "groupbuy_num": "0",
+    "id": "B02F37VD7J",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.167085,22.560457",
+    "match": "0",
+    "name": "加德士加油站(罗沙路辅路)",
+    "navi_poiid": "F50F018002_65",
+    "pcode": "440000",
+    "photos": [],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": "518004",
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-25738369",
+    "timestamp": [],
+    "type": "汽车服务;加油站;加德士",
+    "typecode": "010105",
+    "website": []
+  },
+  {
+    "adcode": "440306",
+    "address": "观澜大道127号",
+    "adname": "宝安区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3414004301",
+    "groupbuy_num": "0",
+    "id": "B02F37VHRA",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.041938,22.702479",
+    "match": "0",
+    "name": "中国石化市观澜加油站(观澜大道)",
+    "navi_poiid": "F50F016001_309",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/20eb0ce961dfd3e3af530db25e5fa592"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/170f8186db46577bc372b64e27e037d2"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/c205f60fc2aee9f87c006dfcd8b35bf0"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-27973699;0755-28018308;0755-28018388",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440306",
+    "address": "观澜大道环观南路88号",
+    "adname": "宝安区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3414003601",
+    "groupbuy_num": "0",
+    "id": "B02F37T4WQ",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.081501,22.692542",
+    "match": "0",
+    "name": "中国石化环观加油站",
+    "navi_poiid": "F50F016001_552",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/bb33298872f79626e4d7d41e9886f239"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/d58e4828a3c4b1eb161319bc663b6681"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/cb6b7d19febe0d7fc9d0b41fd5fa4a6a"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-81710226",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440306",
+    "address": "观澜镇观平路186号",
+    "adname": "宝安区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3414005600",
+    "groupbuy_num": "0",
+    "id": "B02F37T4WH",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.078851,22.710106",
+    "match": "0",
+    "name": "中国石化加油站(福兴围幼儿园西北)",
+    "navi_poiid": "F50F016001_305",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/fb1d6724021dabbbea117343737af5b1"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-29804111;0755-28058889",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440306",
+    "address": "石龙路11号",
+    "adname": "宝安区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": "龙华",
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": [],
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3314709000",
+    "groupbuy_num": "0",
+    "id": "B02F37V7IJ",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.000656,22.660567",
+    "match": "0",
+    "name": "中国石化龙军加油站(三合路)",
+    "navi_poiid": "F49F017048_30895",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/adc2caa3d8c477bcb83fbdc85d1c975f"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-28110564",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  },
+  {
+    "adcode": "440304",
+    "address": "保税区菩提路1号隧道旁服务区",
+    "adname": "福田区",
+    "alias": [],
+    "biz_ext": {
+      "cost": "6.00",
+      "rating": []
+    },
+    "biz_type": [],
+    "business_area": [],
+    "children": [],
+    "citycode": "0755",
+    "cityname": "深圳市",
+    "discount_num": "0",
+    "distance": [],
+    "email": [],
+    "entr_location": "114.061221,22.512683",
+    "event": [],
+    "exit_location": [],
+    "gridcode": "3314601412",
+    "groupbuy_num": "0",
+    "id": "B02F37UD2U",
+    "importance": [],
+    "indoor_data": {
+      "cmsid": [],
+      "cpid": [],
+      "floor": [],
+      "truefloor": []
+    },
+    "indoor_map": "0",
+    "location": "114.061103,22.512853",
+    "match": "0",
+    "name": "中国石化服务区加油站",
+    "navi_poiid": "F50F018001_55092",
+    "pcode": "440000",
+    "photos": [
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/f5dbf87e74a3c11f3d7d55d5ba6af6b9"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/11f7600b6a9b6cab6b3f9ae589afea9d"
+      },
+      {
+        "title": [],
+        "url": "http://store.is.autonavi.com/showpic/942bc6d54448bf56762b070123ebbc69"
+      }
+    ],
+    "pname": "广东省",
+    "poiweight": [],
+    "postcode": [],
+    "recommend": "0",
+    "shopid": [],
+    "shopinfo": "0",
+    "tag": [],
+    "tel": "0755-83485022;0755-83485099",
+    "timestamp": [],
+    "type": "汽车服务;加油站;中国石化",
+    "typecode": "010101",
+    "website": []
+  }
+]
